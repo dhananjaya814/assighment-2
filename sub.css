@@ -1,0 +1,16 @@
+body{background-color: rgb(173, 83, 83);
+    border: solid #053a74;
+    padding: 3%;
+}
+
+h1{color: rgb(223, 153, 24);
+   font-family:monospace;
+   text-align: center;
+   font-size: 300%;
+}
+
+h2{color: rgb(199, 199, 6);
+   font-family: monospace;
+   text-align: center;
+   font-size: 500%;
+}

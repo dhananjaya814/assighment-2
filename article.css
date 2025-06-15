@@ -1,0 +1,27 @@
+body{background-color: aquamarine;
+   border: solid #053a74;
+    padding: 3%;
+}
+
+h1{text-align: center;
+   color: blue;
+   font-size: xx-large;
+   text-decoration: double;
+  }
+
+p{color: rgb(44, 2, 2);
+  text-align: left;
+  font-style: oblique;
+}
+
+h2{font-family: fantasy;
+   color: rgb(49, 5, 5);
+}
+
+h3{font-family: monospace;
+   color: rgb(33, 5, 59);
+}
+
+#form{border: solid red ;
+      padding: 3%;
+   }
